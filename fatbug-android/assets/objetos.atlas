@@ -1,0 +1,103 @@
+
+objetos.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tranvia_derecha
+  rotate: false
+  xy: 1, 69
+  size: 256, 32
+  orig: 256, 32
+  offset: 0, 0
+  index: -1
+tranvia_izquierda
+  rotate: false
+  xy: 1, 35
+  size: 256, 32
+  orig: 256, 32
+  offset: 0, 0
+  index: -1
+autobus_derecha
+  rotate: false
+  xy: 259, 69
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+autobus_izquierda
+  rotate: false
+  xy: 1, 1
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+coche_derecha
+  rotate: false
+  xy: 259, 35
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+coche_izquierda
+  rotate: false
+  xy: 325, 69
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+abajo1
+  rotate: false
+  xy: 67, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+abajo2
+  rotate: false
+  xy: 325, 35
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+arriba1
+  rotate: false
+  xy: 391, 69
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+arriba2
+  rotate: false
+  xy: 101, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+derecha1
+  rotate: false
+  xy: 359, 35
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+derecha2
+  rotate: false
+  xy: 425, 69
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+izquierda1
+  rotate: false
+  xy: 135, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+izquierda2
+  rotate: false
+  xy: 393, 35
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
